@@ -123,7 +123,7 @@ a,a:hover{color:#5fabb2;}
   margin-top: 30px;
 }
 .flex-grid-login .forgot a{font-weight: 600;}
-
+.title-user-list{margin-bottom: 20px;}
 
 @media (min-width: 768px) and (max-width: 991.98px) {
   .hidden-xs{display: none;}
