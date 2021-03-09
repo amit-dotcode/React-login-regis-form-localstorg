@@ -29,7 +29,7 @@ function Home() {
                    <td>{user.userName}</td>
                    <td>{user.userPhone}</td>
                    <td>{user.userEmail}</td>
-                   <td>@{user.userPassword}</td>
+                   <td>{user.userPassword}</td>
                    </tr>
 
                ))}
